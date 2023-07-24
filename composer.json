@@ -1,0 +1,23 @@
+{
+  "name": "soatok/fedifur-com",
+  "license": "ISC",
+  "autoload": {
+    "psr-4": {
+      "Soatok\\Fedifur\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Soatok\\Fedifur\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php": "^8",
+    "ext-mbstring": "*",
+    "paragonie/sodium_compat": ">= 1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9",
+    "vimeo/psalm": "^4"
+  }
+}
