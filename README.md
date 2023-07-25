@@ -20,7 +20,8 @@ If you know what "git" is, just make a pull request that changes `data/instances
 
 If you don't, first, make a [GitHub.com](https://github.com) account, then go to [this specific link](https://github.com/soatok/fedifur.com/edit/main/data/instances.php).
 
-You'll be asked about forking. Go ahead and press the green "Fork this repository" button.
+You'll be asked about forking. Go ahead and press the green "Fork this repository" button. You'll see the repository as a directory. Click the `data` folder, then open the `instances.php` file.
+Now, click the pencil icon (![(Pencil Icon)](https://raw.githubusercontent.com/blyxyas/fedifur.com/main/assets/pencil_icon.png)) and you'll enter **edit mode**.
 
 You'll see a bunch of lines that look like this:
 
